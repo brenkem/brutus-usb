@@ -27,19 +27,19 @@ https://www.waveshare.com/rp2040-zero.htm
     ____        ____
     oooo|      |oooo
     oooo|      |oooo
-    oooo|  X3  |oooo
+    oooo|  X1  |oooo
     oooo|      |oooo
     oooo|      |oooo
     oooo|  X2  |oooo
     oooo|      |oooo
     oooo|      |oooo
-    oooo|  X1  |oooo
-    oooo--------oooo
+    oooo|  X3  |oooo
+    oooo|______|oooo
     oooooooooooooooo
     oooooooooooooooo
 
 
 # pinout
-    X3 = 11;
+    X1 = 11;
     X2 = 12;
-    X1 = 13;
+    X3 = 13;
