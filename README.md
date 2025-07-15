@@ -1,4 +1,4 @@
-# BruTus (BrunnensTatus)
+# BRUTUS (BRUnnen staTUS)
 This simply RP2040 board delivers the status of a well and its water level.
 
 
